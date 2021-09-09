@@ -1,0 +1,27 @@
+[
+  {
+    "username": "Wilson",
+    "recipeType": "indian",
+    "recipe": "Samosa"
+  },
+  {
+    "username": "Chasity",
+    "recipeType": "indian",
+    "recipe":"Chickpea curry"
+  },
+  {
+    "username": "Stephanie",
+    "recipeType": "indian",
+    "recipe": "Biryani"
+  },
+  {
+    "username": "Richardson",
+    "recipeType": "italian",
+		"recipe": "Pizza"
+  },
+  {
+    "username": "Wade",
+    "recipeType": "mexican",
+    "recipe":  "Tacos"
+  }
+]

@@ -1,11 +1,12 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import './App.css'
+import Home from './pages/home'
 
 const App = () => {
   return (
-    <div>
-      Hello World
-    </div>
+    <Fragment>
+      <Home />
+    </Fragment>
   )
 }
 
