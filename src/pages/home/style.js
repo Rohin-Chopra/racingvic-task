@@ -12,6 +12,8 @@ export const FormWrapper = styled.div`
   margin-top: 1rem;
   padding: 1.5rem 1rem;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  background:#EEEEEE;
+  border-radius:8px;
 `
 export const FormGroup = styled.div`
 `
